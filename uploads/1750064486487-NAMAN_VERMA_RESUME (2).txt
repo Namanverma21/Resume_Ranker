@@ -1,0 +1,79 @@
+Naman Verma
++91-8954151408 | ramnaman3957@gmail.com | LinkedIn | GitHub
+
+Education
+Gl Bajaj Institute of Technology and Management
+
+Greater Noida, UP
+
+B.Tech in Computer Science and Engineering, CGPA: 8.3/10
+
+2022 – 2026
+
+St. Joseph’s Sr. Sec. School
+Class XII (CBSE); 79%
+
+St. Joseph’s Sr. Sec. School
+Class X (CBSE); 83%
+
+Kanpur, UP
+Mar 2021 – Apr 2022
+
+Kanpur, UP
+Mar 2019 – Apr 2020
+
+Professional Summary
+I’m Naman Verma, a passionate B.Tech Computer Science student at G.L. Bajaj Institute of Technology and Management, Greater
+Noida. With a strong interest in software development, problem-solving, and emerging technologies, I aim to grow daily
+through consistency, focus, and hard work. I’m driven to build a future in tech and become a high-impact contributor in the
+field.I have hands-on experience in programming, web development, and coding projects that enhance my technical skills. I
+thrive in collaborative environments and enjoy taking on new challenges that strengthen my teamwork and learning abilities.
+
+Projects
+DeliverAtDoor | AUTONOMOUS DELIVERY SYSTEM
+GitHub
+• Built the frontend of a MERN web app with secure login system and role-based dashboards for customers, delivery
+agents, and administrators.
+• Implemented real-time order tracking and live location updates to improve delivery experience and user engagement.
+• Designed a fully responsive and user-friendly interface that works smoothly across all screen sizes and devices.
+• Added features like PDF receipt downloads and improved overall performance for faster and seamless interactions.
+• Created smooth page navigation and dynamic content rendering for a better and more interactive user experience.
+Briefly | AI SUMMARIZER
+GitHub
+• Developed a modern, user-friendly AI summarizer web application with an intuitive UI for efficient content interaction.
+• Implemented AI-powered summary generation from article URLs, enabling users to extract concise insights from lengthy
+content.
+• Built a local storage-based history system to track and revisit previously generated summaries for improved user
+convenience.
+• Integrated copy-to-clipboard functionality to streamline sharing and storage of summarized content.
+• Leveraged Redux Toolkit Query (RTK Query) for optimized and conditional API requests, enhancing data fetching
+performance and code scalability.
+
+Technical Skills
+Programming Languages: C++,JavaScript, HTML, CSS.
+Frameworks and Libraries: React.
+Databases: MySQL.
+Development Tools: Git,VS Code.
+Relevant Coursework:Operating System,DBMS,CN.
+Other Skills: Data Structures & Algorithms.
+
+Problem Solving
+Leetcode | Ranked in Top 50%
+
+Leetcode
+
+Leadership & Volunteering
+NAVRANG Club, GLBITM
+
+Nov 2023 – Present
+
+Design and Media Executive
+
+∗ Led creative direction and content creation for club events, boosting campus visibility through compelling digital
+media campaigns.
+∗ Designed promotional materials including posters, social media graphics, and video content using tools like Canva and
+Adobe Suite.
+∗ Collaborated with cross-functional teams to align visual branding with event goals, enhancing student participation
+and engagement.
+
+

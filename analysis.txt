@@ -1,0 +1,34 @@
+
+🔍 Job Description Keywords:
+- api
+- python
+- postman
+- rest
+- java
+- github
+- jenkins
+
+📄 Resume Keywords:
+- mysql
+- api
+- css
+- html
+- react
+- algorithms
+- github
+
+✅ Match Score: 28%
+
+❌ Missing Keywords:
+- python
+- postman
+- rest
+- java
+- jenkins
+
+💡 Suggestions to Improve Resume:
+- Try to include or highlight your experience with "python" if applicable.
+- Try to include or highlight your experience with "postman" if applicable.
+- Try to include or highlight your experience with "rest" if applicable.
+- Try to include or highlight your experience with "java" if applicable.
+- Try to include or highlight your experience with "jenkins" if applicable.

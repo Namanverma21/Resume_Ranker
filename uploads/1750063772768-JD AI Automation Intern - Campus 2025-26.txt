@@ -1,0 +1,97 @@
+About Junglee Games
+With over 140 million users, Junglee Games is a leader in the online skill gaming space.
+Founded in San Francisco in 2012 and part of the Flutter Entertainment Group, we are
+revolutionizing how people play games. Our notable games include Howzat, Junglee Rummy,
+and Junglee Poker.
+Our team comprises over 1000 talented individuals who have worked on internationally
+acclaimed AAA titles like Transformers and Star Wars: The Old Republic and contributed to
+Hollywood hits such as Avatar. Junglee’s mission is to build entertainment for millions of people
+around the world and connect them through games.
+Junglee Games is not just a gaming company but a blend of innovation, data science,
+cutting-edge tech, and, most importantly, a values-driven culture that is creating the next set of
+conscious leaders.
+
+Job Overview
+We are looking for a passionate and self-motivated AI Automation Intern to join our team at
+Junglee Games. This role offers an exciting opportunity to combine software testing,
+automation engineering, and Generative AI, helping shape the future of quality engineering at
+scale.
+
+Job Location
+●​ Gurgaon/Bangalore (basis business requirements)
+
+Key Responsibilities
+
+●​ Document test plans, test results, and help improve overall test coverage.
+●​ Assist in using GenAI-powered assistants for test case generation, test plan creation,
+and automation scripts.
+●​ Write and maintain UI test scripts using tools like Selenium, Playwright, or Appium..
+●​ Create and execute API tests using Postman, RestAssured, or similar tools.
+●​ Support integration of Large Language Models (LLMs) in QE workflows using prompt
+engineering and RAG pipelines.
+●​ Help set up test pipelines and run test suites via CI tools like Jenkins.
+●​ Collaborate with Dev and Product teams to plan test efforts, triage bugs, and own overall
+testing activity.
+●​ Create automation scripts, adopt AI assistant usage.
+●​ Support the development of test frameworks and reusable libraries.
+
+Qualifications & Skills Required
+●​ Currently pursuing a degree in Computer Science / IT/ AI or a related field from the
+2026 graduating batch.
+●​ Good understanding of Python, Java, or other scripting languages.
+●​ Basic knowledge of software testing, QA practices, or test automation tools (e.g.,
+Selenium, Postman, etc).
+●​ Interest or experience in GenAI, LLMs, or NLP tools.
+●​ Familiarity with REST APIs, JSON, and CI tools (Jenkins, GitHub Actions) is a plus.
+●​ Strong problem-solving mindset and a willingness to learn new technologies.
+
+Be a part of Junglee Games to:
+➔​ Value Customers & Data - Prioritize customers, use data-driven decisions, master
+KPIs, and leverage ideation and A/B testing to drive impactful outcomes.
+➔​ Inspire Extreme Ownership - We embrace ownership, collaborate effectively, and take
+pride in every detail to ensure every game becomes a smashing success.
+
+➔​ Lead with Love - We reject micromanagement and fear, fostering open dialogue, mutual
+growth, and a fearless yet responsible work ethic.
+➔​ Embrace change - Change drives progress and our strength lies in adapting swiftly and
+recognizing when to evolve to stay ahead.
+➔​ Play the Big Game - We think big, challenge norms, and innovate boldly, driving
+impactful results through fresh ideas and inventive problem-solving.
+➔​ Avail a comprehensive benefits package that includes paid gift coupons, fitness plans,
+gadget allowances, fuel costs, family healthcare, and much more.
+
+Discover What Our Campus Hires Have to Say About Us:
+“My time as an intern at Junglee Games has been an amazing journey. I’ve learned so much
+and grown both technically and personally, all thanks to the incredibly kind and supportive
+people around me. Everyone’s always ready to help, and the environment here is just so
+positive and full of opportunities to grow. It’s been a genuinely fun and fulfilling experience.”
+-​
+
+Vishruth Reddy
+
+”My internship at Junglee Games has been a great journey of learning and growth. The team
+was approachable and supportive from day one, and every task brought a meaningful
+challenge. While the tech stack felt a little overwhelming at first, the team's guidance helped
+me grow more confident in my role. I had the freedom to explore, with support always close
+by. The culture encouraged curiosity, ownership, and continuous learning, which made the
+experience truly fulfilling. I’m genuinely grateful for the opportunity and everything I’ve learned
+along the way.”
+-​
+
+Kushagra Gupta
+
+“The work culture at Junglee is amazing—everyone is supportive and helpful, creating an
+environment where you can truly grow. As a fresher, I’ve received incredible exposure, which
+has upskilled me, and I’ve had the opportunity to learn, implement, and contribute to
+meaningful projects. Plus, it’s a fun place to be, with a strong sense of team spirit.”
+-​
+
+Anjali Singh
+
+Know more about us
+➔​ Explore the world of Junglee Games through our website, www.jungleegames.com.
+➔​ Get a glimpse of what Life at Junglee Games looks like on LinkedIn.
+➔​ Here is a quick snippet of the Junglee Games Offsite’24
+➔​ Liked what you saw so far? Be A Junglee
+
+

@@ -1,0 +1,158 @@
+
+
+Naman Verma
++91-8954151408|ramnaman3957@gmail.com|LinkedIn|GitHub
+Education
+Gl Bajaj Institute of Technology and ManagementGreater Noida, UP
+B.Tech in Computer Science and Engineering, CGPA: 8.3/102022 – 2026
+St. Joseph’s Sr. Sec. SchoolKanpur, UP
+Class XII (CBSE); 79%Mar 2021 – Apr 2022
+St. Joseph’s Sr. Sec. SchoolKanpur, UP
+Class X (CBSE); 83%Mar 2019 – Apr 2020
+Professional Summary
+I’m Naman Verma, a passionate B.Tech Computer Science student at G.L. Bajaj Institute of Technology and Management, Greater
+Noida.  With a strong interest insoftware development,problem-solving, and emerging technologies, I aim to grow daily
+throughconsistency, focus, and hard work.  I’m driven to build a future in tech and become a high-impact contributor in the
+field.I have hands-on experience inprogramming, web development, and coding projectsthat enhance my technical skills.  I
+thrive in collaborative environments and enjoy taking on new challenges that strengthen myteamwork and learning abilities.
+Projects
+DeliverAtDoor|AUTONOMOUS DELIVERY SYSTEMGitHub
+•
+Built the frontend of a MERN web app with securelogin systemandrole-based dashboardsfor customers, delivery
+agents, and administrators.
+•
+Implementedreal-time order trackingandlive location updatesto improve delivery experience and user engagement.
+•
+Designed a fullyresponsive and user-friendly interfacethat works smoothly across all screen sizes and devices.
+•
+Added features likePDF receipt downloadsand improved overall performance for faster and seamless interactions.
+•
+Created smooth page navigation and dynamic content rendering for a better and more interactive user experience.
+Briefly|AI SUMMARIZERGitHub
+•
+Developed a modern, user-friendlyAI summarizer web applicationwith an intuitive UI for efficient content interaction.
+•
+ImplementedAI-powered summary generationfrom article URLs, enabling users to extract concise insights from lengthy
+content.
+•
+Built alocal storage-based history systemto track and revisit previously generated summaries for improved user
+convenience.
+•
+Integratedcopy-to-clipboard functionalityto streamline sharing and storage of summarized content.
+•
+LeveragedRedux Toolkit Query (RTK Query)for optimized and conditional API requests, enhancing data fetching
+performance and code scalability.
+Technical Skills
+Programming Languages:  C++,JavaScript, HTML, CSS.
+Frameworks and Libraries:  React.
+Databases:  MySQL.
+Development Tools:  Git,VS Code.
+Relevant Coursework:Operating System,DBMS,CN.
+Other Skills:  Data Structures & Algorithms.
+Problem Solving
+Leetcode|Ranked in Top 50%Leetcode
+Leadership & Volunteering
+NAVRANG Club, GLBITMNov 2023 – Present
+Design and Media Executive
+∗Ledcreative direction and content creationfor club events, boosting campus visibility through compelling digital
+media campaigns.
+∗Designed promotional materials including posters, social media graphics, and video content using tools likeCanva and
+Adobe Suite.
+∗Collaborated with cross-functional teams to align visual branding with event goals,enhancing student participation
+and engagement.
+===JD===
+
+
+ 
+The Icon Group 
+ 
+The  Icon  Group  is  committed  to  providing  innovative  IT  solutions  and  services  to  the  clients  and 
+enabling them to simplify their business IT needs and driving them to gain a competitive edge across 
+the Asia Pacific. We empower organizations to enhance their business efficiency through innovative 
+business  solutions  and  services. We  have  our  headquarters  in  Singapore  and  India  offices  in  Noida, 
+Mumbai  and  Bangalore,  we  currently  partner  with  300+  global  corporations  enabling  them to 
+become more efficient, integrated and innovative enterprises. 
+ Incorporated in the year 1999 in Singapore 
+ Headquartered in Singapore with presence in India 
+ 1000+ successful project implementations for global clients across multiple industry verticals 
+ Highly experienced and multiple domain certified consultants 
+ Singapore SME 500 Awardee 
+ 
+Training Details 
+As  a  part  of  campus  hiring  programme,  we  intend  to  visit  your  campus  to  interview  Final  Year 
+Engineering students for the Technical positions. 
+ 
+Selected  candidates  will  go  through  a  structured  training  program  along  with  on  the  job  training 
+while  shadowing  a  senior  resource  for  a  period  of  three months on – specific  solution  offering  and 
+customer  or  client  orientation,  since  unlike  programmers,  Consultants  need  to  perform  a  multi- 
+faceted   role   which   includes   customer   management,   requirement   gathering,   functional   study, 
+implementation and end to end project management. 
+ 
+The details of the position for which we shall be conducting interviews are as follows: 
+Profile details & Selection criteria  
+Role: Associate Consultant/ Trainee Consultant 
+ 
+Job Description: 
+ Understanding customer requirements 
+ Able to implement business requirements into technical solutions 
+ Proficiency in SQL and exposure with databases 
+ Design, model and develop document and process driven applications using BI solutions 
+ Implementation & demonstration of BI Solutions 
+ Provide Training & Support to the customers 
+ Good to Have: Exposure on Python, ML, AI, BI, SQL 
+ 
+Eligibility criteria: 60% throughout/ Open to Final year students  specializing  in Computer Science, 
+Computer Engineering, IT, AI/ML, Data Science & other relevant streams.  
+Interview process: 
+1. Pre-Placement presentation 
+2. Round 1: Group Discussion 
+3. Round 2: Technical & Aptitude Written Test 
+4. Round 3: Technical Interview 
+5. Round 4: Final Management Interview 
+
+ 
+ 
+ 
+Compensation & Benefits 
+ 
+ 
+Component Year 1 Year 2 Year 3 
+Fixed CTC 420000 480000 600000 
+Other Benefits 38081 39235 41544 
+Training Cost 150000 50000 50000 
+Retention Bonus 0 100000 150000 
+Total CTC 608081 669235 841544 
+ 
+ 
+• Date of joining will be in July/ August 2026  
+• Company is also offering Six Months Internship starting from January 2026, along with 
+final placement offer (PPO) 
+• Students who will be offered Internship cum final placements will have to sign a bond of 
+36 months.  
+• Students  who  will  be  offered  only  final  placements  should  be  willing  to  sign  an 
+Indemnity bond for 30 months  
+• Indemnity bond amount will be INR 150, 000/- (Indian Rupees One Lakh Fifty Thousand 
+only) 
+• The  Bond  amount  would  be  provided  in  the  form  of  a  Bank Guarantee  from  a  reputed 
+Bank in favor of the company in the prescribed format at the time of signing of this bond 
+or through a deduction from salary on monthly basis 
+ 
+*Note: Please note that the internship is optional for all selected candidates. You may choose to 
+join directly at the time of official joining. Also, the training is entirely offsite (work from office), 
+and candidates are required to attend either from IRT Noida or Mumbai office 
+ 
+ 
+Pre-Joining Criteria: Work Policy, Training Requirements, and Deployment Information 
+Below are the important information to note Before Accepting the Offer: 
+ Work-from-Home Policy: The Company does not offer a work-from-home policy. All 
+employees are expected to work from the office. 
+ Travel Flexibility: Selected candidates must be flexible and willing to travel across India as 
+required. 
+ Location Preferences: Preferred location is not guaranteed; location will give as per the 
+requirement. 
+ IRBIT Training: Training will be conducted either in Delhi or Mumbai IRT office, depending 
+on the base location assigned. 
+ Accommodation: Candidates are responsible for arranging their own accommodation. The 
+company does not provide or cover accommodation costs. 
+ Post-Training Deployment: Following the training period, candidates will be assigned to 
+client locations based on their performance and the needs of the business. 
